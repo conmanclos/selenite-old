@@ -6,7 +6,7 @@ body {
     --bg: #000000;
 }
 body[theme=custom] {
-    --inputbg: #3c096c;
+    --inputbg: #333333;
     --inputborder: #5a189a;
     --uibg: #240046;
     --textcolor: #fff;
