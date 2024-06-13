@@ -13,7 +13,7 @@ body[theme=custom] {
     --bg: #10002b;
 }
 body[theme=main] {
-    --inputbg: #3c096c;
+    --inputbg: #333333;
     --inputborder: #5a189a;
     --uibg: #240046;
     --textcolor: #fff;
